@@ -2,9 +2,10 @@
 
 This repository is for the Ohmyhome Technical Challenge.
 
-To run the app,
+To run the app:
 
 npm install
+
 npm run
 
 Live Demo:
