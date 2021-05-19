@@ -8,4 +8,4 @@ npm install
 
 npm run
 
-Live Demo:
+Live Demo: https://binoiii.github.io/ohmyhome-challenge/
