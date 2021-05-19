@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ohmyhome-challenge/static/css/main.f9b48409.chunk.css",
+    "main.js": "/ohmyhome-challenge/static/js/main.94722a0e.chunk.js",
+    "main.js.map": "/ohmyhome-challenge/static/js/main.94722a0e.chunk.js.map",
+    "runtime-main.js": "/ohmyhome-challenge/static/js/runtime-main.9ef23067.js",
+    "runtime-main.js.map": "/ohmyhome-challenge/static/js/runtime-main.9ef23067.js.map",
+    "static/js/2.47fb8d03.chunk.js": "/ohmyhome-challenge/static/js/2.47fb8d03.chunk.js",
+    "static/js/2.47fb8d03.chunk.js.map": "/ohmyhome-challenge/static/js/2.47fb8d03.chunk.js.map",
+    "index.html": "/ohmyhome-challenge/index.html",
+    "static/css/main.f9b48409.chunk.css.map": "/ohmyhome-challenge/static/css/main.f9b48409.chunk.css.map",
+    "static/js/2.47fb8d03.chunk.js.LICENSE.txt": "/ohmyhome-challenge/static/js/2.47fb8d03.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ef23067.js",
+    "static/js/2.47fb8d03.chunk.js",
+    "static/css/main.f9b48409.chunk.css",
+    "static/js/main.94722a0e.chunk.js"
+  ]
+}
